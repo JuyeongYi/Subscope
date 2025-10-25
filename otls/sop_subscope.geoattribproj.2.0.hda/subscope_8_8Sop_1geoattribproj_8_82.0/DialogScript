@@ -14,9 +14,6 @@
     bindhandle prexform_shear1 xform "Transformer" pivot_comp_shear_xy "movetool_candidate(1) ownerop('transform1') owneropgroup('group')"
     bindhandle prexform_shear2 xform "Transformer" pivot_comp_shear_xz "movetool_candidate(1) ownerop('transform1') owneropgroup('group')"
     bindhandle prexform_shear3 xform "Transformer" pivot_comp_shear_yz "movetool_candidate(1) ownerop('transform1') owneropgroup('group')"
-    bindhandle prexform_sx xform "Transformer" pivot_comp_sx "movetool_candidate(1) ownerop('transform1') owneropgroup('group')"
-    bindhandle prexform_sy xform "Transformer" pivot_comp_sy "movetool_candidate(1) ownerop('transform1') owneropgroup('group')"
-    bindhandle prexform_sz xform "Transformer" pivot_comp_sz "movetool_candidate(1) ownerop('transform1') owneropgroup('group')"
     bindhandle prexform_xOrd xform "Transformer" pivot_comp_trs_order "movetool_candidate(1) ownerop('transform1') owneropgroup('group')"
     bindhandle prexform_tx xform "Transformer" pivot_comp_tx "movetool_candidate(1) ownerop('transform1') owneropgroup('group')"
     bindhandle prexform_ty xform "Transformer" pivot_comp_ty "movetool_candidate(1) ownerop('transform1') owneropgroup('group')"
@@ -31,17 +28,10 @@
     bindhandle rx xform "Transformer" rx "movetool_candidate(1) ownerop('transform1') owneropgroup('group')"
     bindhandle ry xform "Transformer" ry "movetool_candidate(1) ownerop('transform1') owneropgroup('group')"
     bindhandle rz xform "Transformer" rz "movetool_candidate(1) ownerop('transform1') owneropgroup('group')"
-    bindhandle shear1 xform "Transformer" shear_xy "movetool_candidate(1) ownerop('transform1') owneropgroup('group')"
-    bindhandle shear2 xform "Transformer" shear_xz "movetool_candidate(1) ownerop('transform1') owneropgroup('group')"
-    bindhandle shear3 xform "Transformer" shear_yz "movetool_candidate(1) ownerop('transform1') owneropgroup('group')"
-    bindhandle sx xform "Transformer" sx "movetool_candidate(1) ownerop('transform1') owneropgroup('group')"
-    bindhandle sy xform "Transformer" sy "movetool_candidate(1) ownerop('transform1') owneropgroup('group')"
-    bindhandle sz xform "Transformer" sz "movetool_candidate(1) ownerop('transform1') owneropgroup('group')"
     bindhandle xOrd xform "Transformer" trs_order "movetool_candidate(1) ownerop('transform1') owneropgroup('group')"
     bindhandle tx xform "Transformer" tx "movetool_candidate(1) ownerop('transform1') owneropgroup('group')"
     bindhandle ty xform "Transformer" ty "movetool_candidate(1) ownerop('transform1') owneropgroup('group')"
     bindhandle tz xform "Transformer" tz "movetool_candidate(1) ownerop('transform1') owneropgroup('group')"
-    bindhandle scale xform "Transformer" uniform_scale "movetool_candidate(1) ownerop('transform1') owneropgroup('group')"
     bindhandle rOrd xform "Transformer" xyz_order "movetool_candidate(1) ownerop('transform1') owneropgroup('group')"
 
     inputlabel	1	"Geometry with Prim Attrib"
@@ -78,6 +68,20 @@
     parm {
         name    "farthest"
         label   "Farthest"
+        type    toggle
+        default { "0" }
+        parmtag { "script_callback_language" "python" }
+    }
+    parm {
+        name    "centroid"
+        label   "Centroid Layers"
+        type    toggle
+        default { "0" }
+        parmtag { "script_callback_language" "python" }
+    }
+    parm {
+        name    "showGeoGuide"
+        label   "Show Guide Geometry"
         type    toggle
         default { "0" }
         parmtag { "script_callback_language" "python" }
@@ -138,34 +142,6 @@
             range   { 0 360 }
             parmtag { "autoscope" "1110000000000000" }
         }
-        parm {
-            name    "s"
-            label   "Scale"
-            type    vector
-            size    3
-            default { "1" "1" "1" }
-            range   { -1 1 }
-            parmtag { "autoscope" "1110000000000000" }
-        }
-        parm {
-            name    "shear"
-            label   "Shear"
-            type    float
-            size    3
-            default { "0" "0" "0" }
-            range   { 0 10 }
-            parmtag { "autoscope" "0000000000000000" }
-            parmtag { "script_callback_language" "python" }
-        }
-        parm {
-            name    "scale"
-            label   "Uniform Scale"
-            type    float
-            default { "1" }
-            range   { 0 10 }
-            parmtag { "autoscope" "0000000000000000" }
-            parmtag { "script_callback_language" "python" }
-        }
         groupcollapsible {
             name    "pivot"
             label   "Pivot"
@@ -212,16 +188,6 @@
                 type    vector
                 size    3
                 default { "0" "0" "0" }
-                range   { -1 1 }
-                parmtag { "autoscope" "0000000000000000" }
-                parmtag { "script_callback_language" "python" }
-            }
-            parm {
-                name    "prexform_s"
-                label   "Pre-Scale"
-                type    vector
-                size    3
-                default { "1" "1" "1" }
                 range   { -1 1 }
                 parmtag { "autoscope" "0000000000000000" }
                 parmtag { "script_callback_language" "python" }

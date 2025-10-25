@@ -4,11 +4,11 @@ Path:         oplib:/subscope::Sop/geoattribproj::2.0?subscope::Sop/geoattribpro
 Icon:         SOP_subnet
 Table:        Sop
 License:      
-Extra:        guide=guideArrow inputcolors='3 "RGB 0.700195 0.700195 0.700195" "RGB 0.700195 0.700195 0.700195" "RGB 0.700195 0.700195 0.700195" ' outputcolors='1 "RGB 0.700195 0.700195 0.700195" ' 
+Extra:        guide=guide inputcolors='3 "RGB 0.700195 0.700195 0.700195" "RGB 0.700195 0.700195 0.700195" "RGB 0.700195 0.700195 0.700195" ' outputcolors='1 "RGB 0.700195 0.700195 0.700195" ' 
 User:         
 Inputs:       2 to 3
 Subnet:       true
 Python:       false
 Empty:        false
-Modified:     Sat Oct 25 23:36:00 2025
+Modified:     Sun Oct 26 01:52:27 2025
 
