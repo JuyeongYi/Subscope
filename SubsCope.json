@@ -1,0 +1,11 @@
+{
+    "hpath": "$SUBSCOPE",
+    "load_package_once": true,
+    "enable": "houdini_version >= '21.0'",
+    "version": "21.0",
+    "env": [
+        {
+            "SUBSCOPE": "Replace this to where the directioy actually is."
+        }
+    ]
+}
