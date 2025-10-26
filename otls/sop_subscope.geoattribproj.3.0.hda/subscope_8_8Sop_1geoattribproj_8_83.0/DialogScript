@@ -41,19 +41,20 @@
     inputlabel	3	"Xform Points"
     inputlabel	4	"Sub-Network Input #4"
 
-    groupsimple {
-        name    "setup"
-        label   "Setup"
-
-        parm {
-            name    "newparameter"
-            label   "Label"
-            type    button
-            default { "0" }
-            parmtag { "script_callback_language" "python" }
+    parm {
+        name    "res"
+        label   "Resolution"
+        type    integer
+        default { "0" }
+        menureplace usetokenvalue {
+            [ "a = [2**(i+4) for i in range(9)]" ]
+            [ "result = [x for x in a for _ in range(2)]" ]
+            [ "return result" ]
+            language python
         }
+        range   { 16 2048 }
+        parmtag { "script_callback_language" "python" }
     }
-
     groupsimple {
         name    "Options"
         label   "Options"
