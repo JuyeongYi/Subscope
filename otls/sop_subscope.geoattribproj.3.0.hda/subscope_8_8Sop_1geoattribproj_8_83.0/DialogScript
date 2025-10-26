@@ -45,7 +45,7 @@
         name    "res"
         label   "Resolution"
         type    integer
-        default { "0" }
+        default { "128" }
         menureplace usetokenvalue {
             [ "a = [2**(i+4) for i in range(9)]" ]
             [ "result = [x for x in a for _ in range(2)]" ]
