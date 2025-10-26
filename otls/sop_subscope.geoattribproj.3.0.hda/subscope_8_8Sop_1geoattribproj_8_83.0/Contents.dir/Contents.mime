@@ -77,8 +77,8 @@ Content-Disposition: attachment; filename="hdaroot.inp"
 Content-Type: text/plain
 
 2
-0 -15.779422403466384 -4.3643045677932584 2 0 __NO_OWNER_NETWORK_BOX__ "FROMOUTPUT"
-1 7.4984074463118571 -11.161764255855598 2 0 __NO_OWNER_NETWORK_BOX__ "FROMOUTPUT"
+0 -21.603247696467861 -9.0838469499311856 2 0 __NO_OWNER_NETWORK_BOX__ "FROMOUTPUT"
+1 5.359274086598047 -12.902864288549123 2 0 __NO_OWNER_NETWORK_BOX__ "FROMOUTPUT"
 
 --HOUDINIMIMEBOUNDARY0xD3ADD339-0x00000F49-0x56B122C9-0x00000001HOUDINIMIMEBOUNDARY
 Content-Disposition: attachment; filename="hdaroot/output0.init"
@@ -93,7 +93,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -8.04981 -56.396
+position 6.73211 -61.0103
 connectornextid 1
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -213,7 +213,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -16.549 -37.5028
+position -14.3298 -35.6558
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -283,7 +283,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -16.909 -6.4727
+position -22.7328 -11.1922
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -344,7 +344,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -7.01002 -37.0217
+position -9.84431 -35.2718
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -414,7 +414,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -16.1141 -35.0154
+position -14.3298 -33.3968
 connectornextid 3
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -498,7 +498,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -13.9142 -32.4726
+position -12.8133 -30.7379
 connectornextid 5
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -611,7 +611,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -17.3 -33.4961
+position -15.6373 -31.7168
 connectornextid 3
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -720,7 +720,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -16.7382 -36.4635
+position -14.3298 -34.5263
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault off exposed on
 outputsNamed3
@@ -797,7 +797,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -19.1422 -25.0324
+position -14.9387 -26.6028
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault off exposed on
 outputsNamed3
@@ -861,7 +861,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -16.0277 -25.0324
+position -16.9037 -26.7218
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault off exposed on
 outputsNamed3
@@ -990,7 +990,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -18.6533 -20.7884
+position -14.4336 -21.5841
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault off exposed on
 outputsNamed3
@@ -1053,7 +1053,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -15.7372 -20.5305
+position -16.8336 -21.5841
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault off exposed on
 outputsNamed3
@@ -1116,7 +1116,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -10.3123 -12.7592
+position -7.80449 -14.0017
 connectornextid 1
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -1209,7 +1209,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -8.05311 -13.211
+position -5.5453 -14.4535
 connectornextid 1
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -1302,7 +1302,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -6.92351 -15.0935
+position -4.4157 -16.336
 connectornextid 5
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -1367,7 +1367,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -8.35571 -25.0272
+position -5.21887 -25.3354
 connectornextid 3
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -1467,7 +1467,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -10.5665 -26.9
+position -9.94768 -26.6028
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault off exposed on
 outputsNamed3
@@ -1531,7 +1531,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -5.79391 -13.6628
+position -3.2861 -14.9053
 connectornextid 1
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -1624,7 +1624,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -3.53471 -14.1146
+position -1.0269 -15.3571
 connectornextid 1
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -3509,7 +3509,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -3.37767 -54.6311
+position 11.4042 -59.2454
 connectornextid 1
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -3787,7 +3787,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -16.909 -5.3432
+position -22.7328 -10.0627
 connectornextid 3
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -3868,7 +3868,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -17.9976 -4.3976
+position -23.8214 -9.11714
 connectornextid 1
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -3899,7 +3899,7 @@ Content-Type: text/plain
 
 {
 version 0.8
-stash	[ 0	locks=0 ]	(	geometry:f05TSmJbKwALZmlsZXZlcnNpb24mACsBCDIxLjAuNDQwJgErAghoYXNpbmRleCYCMSsDCnBvaW50Y291bnQmAxEPKwQLdmVydGV4Y291bnQmBBEiKwUOcHJpbWl0aXZlY291bnQmBRERKwYEaW5mbyYGeysHBmFydGlzdCYHKwgFSm9veW8mCCsJCHNvZnR3YXJlJgkrChBIb3VkaW5pIDIxLjAuNDQwJgorCwRkYXRlJgsrDBMyMDI1LTEwLTI2IDIzOjMzOjE1JgwrDQhob3N0bmFtZSYNKw4FSnlMZWUmDisPBmJvdW5kcyYPQBkGAAAAAAAAEEIAAMDAAAAAAAAAAAAAAAAAKxARcHJpbWNvdW50X3N1bW1hcnkmECcVICAgICAgICAgMTcgUG9seWdvbnMKKxERYXR0cmlidXRlX3N1bW1hcnkmESe2ICAgICAzIHZlcnRleCBhdHRyaWJ1dGVzOglwb3J0YWxpYXMsIHBvcnRpbmRleCwgcG9ydG5hbWUKICAgICA4IHBvaW50IGF0dHJpYnV0ZXM6CWNhbGxiYWNrLCBDZCwgY29tbWVudCwgUCwgcGFybXMsIHRhZ3MsIHByb3BlcnRpZXMsIG5hbWUKICAgICAyIGdsb2JhbCBhdHRyaWJ1dGVzOglwcm9wZXJ0aWVzLCBwYXJtcwp9KxIIdG9wb2xvZ3kmElsrEwhwb2ludHJlZiYTWysUB2luZGljZXMmFEASIgAABAAEAAUABQAGAAEABgACAAYABgAHAAcACAAHAAkABwAKAAgACwAJAAsACgALAAMACwALAAwADAANAAAADQANAA4AXV0rFQphdHRyaWJ1dGVzJhVbKxYQdmVydGV4YXR0cmlidXRlcyYWW1tbKxcFc2NvcGUmFysYBnB1YmxpYyYYKxkEdHlwZSYZKxoGc3RyaW5nJhorGwRuYW1lJhsrHAlwb3J0YWxpYXMmHCsdB29wdGlvbnMmHXt9XVsrHgRzaXplJh4RASsfB3N0b3JhZ2UmHysgBWludDMyJiArIQdzdHJpbmdzJiFbKyICYjAmIisjAmIxJiNdJhRbJh4RASYfJiArJAhwYWdlc2l6ZSYkEgAEKyULcmF3cGFnZWRhdGEmJUATIv////////////////////////////////////8AAAAA/////wEAAAD/////AAAAAP////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9dXV1bWyYXJhgmGSsmB251bWVyaWMmJiYbKycJcG9ydGluZGV4JicmHXsmGXsmGSYaKygFdmFsdWUmKCspFW5vbmFyaXRobWV0aWNfaW50ZWdlciYpfX1dWyYeEQEmHyYgKyoIZGVmYXVsdHMmKlsmHhEBJh8rKwVpbnQ2NCYrKywGdmFsdWVzJixAFAH//////////10mLFsmHhEBJh8mICYkEgAEJiVAEyL/////////////////////////////////////AAAAAP////8BAAAA/////wAAAAD/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////XV1dW1smFyYYJhkmGiYbKy0IcG9ydG5hbWUmLSYde31dWyYeEQEmHyYgJiFbKy4DZ2VvJi4mHisvBnZlY3RvciYvKzAGcmVzdWx0JjArMQFhJjErMgFiJjIrMwF4JjMrNAF5JjQrNQF6JjUrNgRyb3cxJjYrNwRyb3cyJjcrOARyb3czJjgrOQRyb3c0JjkrOgFtJjorOwRwYXJtJjsmKCs8BXhmb3JtJjxdJhRbJh4RASYfJiAmJBIABCYlQBMiAAAAAAAAAAABAAAAAgAAAAMAAAAEAAAAAwAAAAUAAAADAAAABQAAAAMAAAAFAAAAAwAAAAYAAAADAAAABwAAAAMAAAAIAAAAAgAAAAkAAAACAAAACgAAAAIAAAALAAAAAgAAAAwAAAANAAAADgAAAA8AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAF1dXV0rPQ9wb2ludGF0dHJpYnV0ZXMmPVtbWyYXJhgmGSYmJhsrPgFQJj4mHXsmGXsmGSYaJigrPwVwb2ludCY/fX1dWyYeEQMmHytACGZwcmVhbDMyJkAmKlsmHhEBJh8rQQhmcHJlYWw2NCZBJixAGgEAAAAAAAAAAF0mLFsmHhEDJh8mQCYkEgAEJiVAGS0AAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAA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	)
+stash	[ 0	locks=0 ]	(	geometry:f05TSmJbKwALZmlsZXZlcnNpb24mACsBCDIxLjAuNDQwJgErAghoYXNpbmRleCYCMSsDCnBvaW50Y291bnQmAxEPKwQLdmVydGV4Y291bnQmBBEiKwUOcHJpbWl0aXZlY291bnQmBRERKwYEaW5mbyYGeysHBmFydGlzdCYHKwgFSm9veW8mCCsJCHNvZnR3YXJlJgkrChBIb3VkaW5pIDIxLjAuNDQwJgorCwRkYXRlJgsrDBMyMDI1LTEwLTI2IDIzOjQwOjA5JgwrDQhob3N0bmFtZSYNKw4FSnlMZWUmDisPBmJvdW5kcyYPQBkGAAAAAAAAEEIAAMDAAAAAAAAAAAAAAAAAKxARcHJpbWNvdW50X3N1bW1hcnkmECcVICAgICAgICAgMTcgUG9seWdvbnMKKxERYXR0cmlidXRlX3N1bW1hcnkmESe2ICAgICAzIHZlcnRleCBhdHRyaWJ1dGVzOglwb3J0YWxpYXMsIHBvcnRpbmRleCwgcG9ydG5hbWUKICAgICA4IHBvaW50IGF0dHJpYnV0ZXM6CWNhbGxiYWNrLCBDZCwgY29tbWVudCwgUCwgcGFybXMsIHRhZ3MsIHByb3BlcnRpZXMsIG5hbWUKICAgICAyIGdsb2JhbCBhdHRyaWJ1dGVzOglwcm9wZXJ0aWVzLCBwYXJtcwp9KxIIdG9wb2xvZ3kmElsrEwhwb2ludHJlZiYTWysUB2luZGljZXMmFEASIgAABAAEAAUABQAGAAEABgACAAYABgAHAAcACAAHAAkABwAKAAgACwAJAAsACgALAAMACwALAAwADAANAAAADQANAA4AXV0rFQphdHRyaWJ1dGVzJhVbKxYQdmVydGV4YXR0cmlidXRlcyYWW1tbKxcFc2NvcGUmFysYBnB1YmxpYyYYKxkEdHlwZSYZKxoGc3RyaW5nJhorGwRuYW1lJhsrHAlwb3J0YWxpYXMmHCsdB29wdGlvbnMmHXt9XVsrHgRzaXplJh4RASsfB3N0b3JhZ2UmHysgBWludDMyJiArIQdzdHJpbmdzJiFbKyICYjAmIisjAmIxJiNdJhRbJh4RASYfJiArJAhwYWdlc2l6ZSYkEgAEKyULcmF3cGFnZWRhdGEmJUATIv////////////////////////////////////8AAAAA/////wEAAAD/////AAAAAP////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9dXV1bWyYXJhgmGSsmB251bWVyaWMmJiYbKycJcG9ydGluZGV4JicmHXsmGXsmGSYaKygFdmFsdWUmKCspFW5vbmFyaXRobWV0aWNfaW50ZWdlciYpfX1dWyYeEQEmHyYgKyoIZGVmYXVsdHMmKlsmHhEBJh8rKwVpbnQ2NCYrKywGdmFsdWVzJixAFAH//////////10mLFsmHhEBJh8mICYkEgAEJiVAEyL/////////////////////////////////////AAAAAP////8BAAAA/////wAAAAD/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////XV1dW1smFyYYJhkmGiYbKy0IcG9ydG5hbWUmLSYde31dWyYeEQEmHyYgJiFbKy4DZ2VvJi4mHisvBnZlY3RvciYvKzAGcmVzdWx0JjArMQFhJjErMgFiJjIrMwF4JjMrNAF5JjQrNQF6JjUrNgRyb3cxJjYrNwRyb3cyJjcrOARyb3czJjgrOQRyb3c0JjkrOgFtJjorOwRwYXJtJjsmKCs8BXhmb3JtJjxdJhRbJh4RASYfJiAmJBIABCYlQBMiAAAAAAAAAAABAAAAAgAAAAMAAAAEAAAAAwAAAAUAAAADAAAABQAAAAMAAAAFAAAAAwAAAAYAAAADAAAABwAAAAMAAAAIAAAAAgAAAAkAAAACAAAACgAAAAIAAAALAAAAAgAAAAwAAAANAAAADgAAAA8AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAF1dXV0rPQ9wb2ludGF0dHJpYnV0ZXMmPVtbWyYXJhgmGSYmJhsrPgFQJj4mHXsmGXsmGSYaJigrPwVwb2ludCY/fX1dWyYeEQMmHytACGZwcmVhbDMyJkAmKlsmHhEBJh8rQQhmcHJlYWw2NCZBJixAGgEAAAAAAAAAAF0mLFsmHhEDJh8mQCYkEgAEJiVAGS0AAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAA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	)
 stashinput	[ 0	locks=0 ]	(	0	)
 stashfile	[ 0	locks=0 ]	(	""	)
 movestashtofile	[ 0	locks=0 ]	(	0	)
@@ -3930,9 +3930,9 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -13.8237 -11.4654
+position -10.8695 -14.2871
 connectornextid 3
-flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
+flags =  lock off model off template off footprint off xray off bypass off display on render on highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
 {
 1 "output1"
@@ -4081,7 +4081,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -20.3624 -16.767
+position -15.8761 -17.3888
 connectornextid 3
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault off exposed on
 outputsNamed3
@@ -4160,7 +4160,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -23.1751 -12.0276
+position -13.4502 -13.9011
 connectornextid 1
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault off exposed on
 outputsNamed3
@@ -4222,7 +4222,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -21.0641 -12.0276
+position -17.0057 -14.5274
 connectornextid 1
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault off exposed on
 outputsNamed3
@@ -4284,7 +4284,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -19.9129 -13.216
+position -14.7465 -14.9792
 connectornextid 1
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -4681,7 +4681,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -20.7778 -15.5072
+position -15.8761 -15.9581
 connectornextid 3
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -4742,7 +4742,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -20.0806 -18.1329
+position -15.8761 -18.5183
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -4809,7 +4809,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -13.4513 -25.0324
+position -12.3477 -26.6028
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault off exposed on
 outputsNamed3
@@ -4873,7 +4873,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -12.6935 -20.3899
+position -12.0336 -21.5841
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault off exposed on
 outputsNamed3
@@ -4936,7 +4936,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -9.37979 -31.0419
+position -9.42446 -29.759
 connectornextid 5
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -5172,7 +5172,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -11.3644 -30.7846
+position -11.6837 -29.3072
 connectornextid 5
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -5408,7 +5408,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -13.1092 -30.5901
+position -13.9429 -28.8554
 connectornextid 5
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -5644,7 +5644,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -14.6456 -30.5901
+position -16.2021 -28.4036
 connectornextid 5
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -5880,7 +5880,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -17.5999 -31.226
+position -18.4613 -30.2861
 connectornextid 5
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -6116,7 +6116,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -6.92076 -16.3838
+position -4.41295 -17.6263
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault off exposed on
 outputsNamed3
@@ -6181,7 +6181,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -9.10564 -20.3515
+position -9.63362 -21.5841
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault off exposed on
 outputsNamed3
@@ -6244,7 +6244,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -7.05978 -20.8506
+position -6.92993 -21.5797
 connectornextid 1
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -6639,7 +6639,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -8.04981 -54.2929
+position 6.73211 -58.9072
 connectornextid 3
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -6703,7 +6703,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position 25.0703 -38.0242
+position 23.1888 -41.3614
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -6775,7 +6775,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position 6.0913 -15.8616
+position 2.79665 -15.0694
 connectornextid 1
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -6851,7 +6851,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position 6.0913 -16.8616
+position 2.79665 -16.0694
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -7097,7 +7097,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -3.48385 -21.038
+position -1.70304 -21.896
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault off exposed on
 outputsNamed3
@@ -7160,7 +7160,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -7.53705 -23.162
+position -5.21887 -22.7752
 connectornextid 3
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -7243,7 +7243,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -7.89032 -23.9527
+position -5.21887 -23.9047
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -7760,7 +7760,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position 8.22251 -19.6416
+position 4.92786 -18.8494
 connectornextid 3
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -7840,7 +7840,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position 25.0719 -39.0706
+position 23.1904 -42.4078
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault off exposed on
 outputsNamed3
@@ -7917,7 +7917,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position 25.0719 -36.9842
+position 23.1904 -40.3214
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault off exposed on
 outputsNamed3
@@ -7981,7 +7981,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position 6.08785 -17.8616
+position 2.7932 -17.0694
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -8049,7 +8049,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -1.10206 -20.5864
+position 2.32531 -19.6646
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -8130,7 +8130,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position 24.8068 -34.8499
+position 22.9253 -38.1871
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -8211,7 +8211,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position -5.75613 -52.8963
+position 9.02579 -57.5106
 connectornextid 3
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -8439,7 +8439,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position 10.9589 -14.4637
+position 6.84205 -17.3825
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -8500,9 +8500,9 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position 25.0719 -40.1563
+position 23.1904 -43.4935
 connectornextid 2
-flags =  lock off model off template off footprint off xray off bypass off display on render on highlight off unload off savedata off compress on colordefault off exposed on
+flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault off exposed on
 outputsNamed3
 {
 1 "output1"
@@ -8565,7 +8565,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position 25.0719 -35.8985
+position 23.1904 -39.2357
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault off exposed on
 outputsNamed3
