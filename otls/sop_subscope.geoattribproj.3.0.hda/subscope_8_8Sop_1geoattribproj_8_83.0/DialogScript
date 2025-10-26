@@ -36,7 +36,7 @@
 
     inputlabel	1	"Geometry with Prim Attrib"
     parmtag { inputisref1 1 }
-    inputlabel	2	"Reference 2D Volume"
+    inputlabel	2	"Points with 4@xform Attrib"
     parmtag { inputisref2 1 }
     inputlabel	3	"Xform Points"
     inputlabel	4	"Sub-Network Input #4"
