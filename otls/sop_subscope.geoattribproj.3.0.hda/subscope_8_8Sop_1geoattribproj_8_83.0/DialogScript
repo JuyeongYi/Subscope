@@ -1,7 +1,7 @@
-# Dialog script for subscope::geoattribproj::2.0 automatically generated
+# Dialog script for subscope::geoattribproj::3.0 automatically generated
 
 {
-    name	subscope::geoattribproj::2.0
+    name	subscope::geoattribproj::3.0
     script	subscope::geoattribproj::1.0
     label	"Geometry Attribute Projection"
 
@@ -41,54 +41,74 @@
     inputlabel	3	"Xform Points"
     inputlabel	4	"Sub-Network Input #4"
 
-    parm {
-        name    "primAttrsToProj"
-        label   "Prim Attribs"
-        type    string
-        default { "*" }
-        menutoggle {
-            [ "node = kwargs['node'].node(\"__ref\")" ]
-            [ "geo = node.geometry()" ]
-            [ "result = []" ]
-            [ "" ]
-            [ "allowed = (hou.attribData.Float, hou.attribData.Int) " ]
-            [ "if geo:" ]
-            [ "    attribs = geo.primAttribs()" ]
-            [ "    for attrib in sorted(attribs, key=lambda a: a.name()):" ]
-            [ "        if attrib.dataType() not in allowed:" ]
-            [ "            continue" ]
-            [ "        result.append(attrib.name())" ]
-            [ "        result.append(attrib.name())" ]
-            [ "return result" ]
-            language python
+    groupsimple {
+        name    "setup"
+        label   "Setup"
+
+        parm {
+            name    "newparameter"
+            label   "Label"
+            type    button
+            default { "0" }
+            parmtag { "script_callback_language" "python" }
         }
-        parmtag { "editor" "0" }
-        parmtag { "script_callback_language" "python" }
     }
-    parm {
-        name    "farthest"
-        label   "Farthest"
-        type    toggle
-        default { "0" }
-        parmtag { "script_callback_language" "python" }
+
+    groupsimple {
+        name    "Options"
+        label   "Options"
+
+        parm {
+            name    "primAttrsToProj"
+            label   "Prim Attribs"
+            type    string
+            default { "*" }
+            menutoggle {
+                [ "node = kwargs['node'].node(\"__ref\")" ]
+                [ "geo = node.geometry()" ]
+                [ "result = []" ]
+                [ "" ]
+                [ "allowed = (hou.attribData.Float, hou.attribData.Int) " ]
+                [ "if geo:" ]
+                [ "    attribs = geo.primAttribs()" ]
+                [ "    for attrib in sorted(attribs, key=lambda a: a.name()):" ]
+                [ "        if attrib.dataType() not in allowed:" ]
+                [ "            continue" ]
+                [ "        result.append(attrib.name())" ]
+                [ "        result.append(attrib.name())" ]
+                [ "return result" ]
+                language python
+            }
+            parmtag { "editor" "0" }
+            parmtag { "script_callback_language" "python" }
+        }
+        parm {
+            name    "farthest"
+            label   "Farthest"
+            type    toggle
+            default { "0" }
+            parmtag { "script_callback_language" "python" }
+        }
+        parm {
+            name    "centroid"
+            label   "Centroid Layers"
+            type    toggle
+            default { "0" }
+            parmtag { "script_callback_language" "python" }
+        }
+        parm {
+            name    "showGeoGuide"
+            label   "Show Guide Geometry"
+            type    toggle
+            default { "0" }
+            parmtag { "script_callback_language" "python" }
+        }
     }
-    parm {
-        name    "centroid"
-        label   "Centroid Layers"
-        type    toggle
-        default { "0" }
-        parmtag { "script_callback_language" "python" }
-    }
-    parm {
-        name    "showGeoGuide"
-        label   "Show Guide Geometry"
-        type    toggle
-        default { "0" }
-        parmtag { "script_callback_language" "python" }
-    }
+
     group {
         name    "layerXform"
         label   "Layer Transform"
+        disablewhentab "{ hasinput(1) == 1 }"
 
         parm {
             name    "xOrd"
