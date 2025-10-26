@@ -55,6 +55,15 @@
         range   { 16 2048 }
         parmtag { "script_callback_language" "python" }
     }
+    parm {
+        name    "scale"
+        label   "Mesh Uniform Scale"
+        type    float
+        default { "1" }
+        range   { 0 2 }
+        parmtag { "autoscope" "0000000000000000" }
+        parmtag { "script_callback_language" "python" }
+    }
     groupsimple {
         name    "Options"
         label   "Options"

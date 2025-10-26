@@ -1,5 +1,6 @@
 {
 	"hdaroot/makeAttribInfoPoints.def":1760105519,
+	"hdaroot/matchsize2.def":1761492718,
 	"hdaroot/transformbyattrib5.def":1761409584,
 	"hdaroot/merge3.def":1761389367,
 	"hdaroot/attribpromote2.def":1761487240,
@@ -85,6 +86,7 @@
 	"hdaroot/object_merge3.def":1761485274,
 	"hdaroot/compile_begin1.def":1761488898,
 	"hdaroot/vectorSizeSwitch1.def":1472498793,
+	"hdaroot/transform1.def":1761492812,
 	"hdaroot/compile_end9.def":1761484670,
 	"hdaroot/volume6.def":1760107853,
 	"hdaroot/foreach_begin1.def":1761486855,
