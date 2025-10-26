@@ -32,9 +32,9 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position 4.1668 -4.30684
+position 4.1659 -4.37111
 connectornextid 3
-flags =  lock off model off template off footprint off xray off bypass off display on render on highlight off unload off savedata off compress on colordefault on exposed on
+flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
 {
 0 "output1"
@@ -3899,7 +3899,7 @@ Content-Type: text/plain
 
 {
 version 0.8
-stash	[ 0	locks=0 ]	(	geometry:f05TSmJbKwALZmlsZXZlcnNpb24mACsBCDIxLjAuNDQwJgErAghoYXNpbmRleCYCMSsDCnBvaW50Y291bnQmAxEPKwQLdmVydGV4Y291bnQmBBEiKwUOcHJpbWl0aXZlY291bnQmBRERKwYEaW5mbyYGeysHBmFydGlzdCYHKwgFSm9veW8mCCsJCHNvZnR3YXJlJgkrChBIb3VkaW5pIDIxLjAuNDQwJgorCwRkYXRlJgsrDBMyMDI1LTEwLTI2IDIzOjQwOjA5JgwrDQhob3N0bmFtZSYNKw4FSnlMZWUmDisPBmJvdW5kcyYPQBkGAAAAAAAAEEIAAMDAAAAAAAAAAAAAAAAAKxARcHJpbWNvdW50X3N1bW1hcnkmECcVICAgICAgICAgMTcgUG9seWdvbnMKKxERYXR0cmlidXRlX3N1bW1hcnkmESe2ICAgICAzIHZlcnRleCBhdHRyaWJ1dGVzOglwb3J0YWxpYXMsIHBvcnRpbmRleCwgcG9ydG5hbWUKICAgICA4IHBvaW50IGF0dHJpYnV0ZXM6CWNhbGxiYWNrLCBDZCwgY29tbWVudCwgUCwgcGFybXMsIHRhZ3MsIHByb3BlcnRpZXMsIG5hbWUKICAgICAyIGdsb2JhbCBhdHRyaWJ1dGVzOglwcm9wZXJ0aWVzLCBwYXJtcwp9KxIIdG9wb2xvZ3kmElsrEwhwb2ludHJlZiYTWysUB2luZGljZXMmFEASIgAABAAEAAUABQAGAAEABgACAAYABgAHAAcACAAHAAkABwAKAAgACwAJAAsACgALAAMACwALAAwADAANAAAADQANAA4AXV0rFQphdHRyaWJ1dGVzJhVbKxYQdmVydGV4YXR0cmlidXRlcyYWW1tbKxcFc2NvcGUmFysYBnB1YmxpYyYYKxkEdHlwZSYZKxoGc3RyaW5nJhorGwRuYW1lJhsrHAlwb3J0YWxpYXMmHCsdB29wdGlvbnMmHXt9XVsrHgRzaXplJh4RASsfB3N0b3JhZ2UmHysgBWludDMyJiArIQdzdHJpbmdzJiFbKyICYjAmIisjAmIxJiNdJhRbJh4RASYfJiArJAhwYWdlc2l6ZSYkEgAEKyULcmF3cGFnZWRhdGEmJUATIv////////////////////////////////////8AAAAA/////wEAAAD/////AAAAAP////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9dXV1bWyYXJhgmGSsmB251bWVyaWMmJiYbKycJcG9ydGluZGV4JicmHXsmGXsmGSYaKygFdmFsdWUmKCspFW5vbmFyaXRobWV0aWNfaW50ZWdlciYpfX1dWyYeEQEmHyYgKyoIZGVmYXVsdHMmKlsmHhEBJh8rKwVpbnQ2NCYrKywGdmFsdWVzJixAFAH//////////10mLFsmHhEBJh8mICYkEgAEJiVAEyL/////////////////////////////////////AAAAAP////8BAAAA/////wAAAAD/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////XV1dW1smFyYYJhkmGiYbKy0IcG9ydG5hbWUmLSYde31dWyYeEQEmHyYgJiFbKy4DZ2VvJi4mHisvBnZlY3RvciYvKzAGcmVzdWx0JjArMQFhJjErMgFiJjIrMwF4JjMrNAF5JjQrNQF6JjUrNgRyb3cxJjYrNwRyb3cyJjcrOARyb3czJjgrOQRyb3c0JjkrOgFtJjorOwRwYXJtJjsmKCs8BXhmb3JtJjxdJhRbJh4RASYfJiAmJBIABCYlQBMiAAAAAAAAAAABAAAAAgAAAAMAAAAEAAAAAwAAAAUAAAADAAAABQAAAAMAAAAFAAAAAwAAAAYAAAADAAAABwAAAAMAAAAIAAAAAgAAAAkAAAACAAAACgAAAAIAAAALAAAAAgAAAAwAAAANAAAADgAAAA8AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAF1dXV0rPQ9wb2ludGF0dHJpYnV0ZXMmPVtbWyYXJhgmGSYmJhsrPgFQJj4mHXsmGXsmGSYaJigrPwVwb2ludCY/fX1dWyYeEQMmHytACGZwcmVhbDMyJkAmKlsmHhEBJh8rQQhmcHJlYWw2NCZBJixAGgEAAAAAAAAAAF0mLFsmHhEDJh8mQCYkEgAEJiVAGS0AAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAA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	)
+stash	[ 0	locks=0 ]	(	geometry:f05TSmJbKwALZmlsZXZlcnNpb24mACsBCDIxLjAuNDQwJgErAghoYXNpbmRleCYCMSsDCnBvaW50Y291bnQmAxEPKwQLdmVydGV4Y291bnQmBBEiKwUOcHJpbWl0aXZlY291bnQmBRERKwYEaW5mbyYGeysHBmFydGlzdCYHKwgFSm9veW8mCCsJCHNvZnR3YXJlJgkrChBIb3VkaW5pIDIxLjAuNDQwJgorCwRkYXRlJgsrDBMyMDI1LTEwLTI2IDIzOjUwOjU1JgwrDQhob3N0bmFtZSYNKw4FSnlMZWUmDisPBmJvdW5kcyYPQBkGAAAAAAAAEEIAAMDAAAAAAAAAAAAAAAAAKxARcHJpbWNvdW50X3N1bW1hcnkmECcVICAgICAgICAgMTcgUG9seWdvbnMKKxERYXR0cmlidXRlX3N1bW1hcnkmESe2ICAgICAzIHZlcnRleCBhdHRyaWJ1dGVzOglwb3J0YWxpYXMsIHBvcnRpbmRleCwgcG9ydG5hbWUKICAgICA4IHBvaW50IGF0dHJpYnV0ZXM6CWNhbGxiYWNrLCBDZCwgY29tbWVudCwgUCwgcGFybXMsIHRhZ3MsIHByb3BlcnRpZXMsIG5hbWUKICAgICAyIGdsb2JhbCBhdHRyaWJ1dGVzOglwcm9wZXJ0aWVzLCBwYXJtcwp9KxIIdG9wb2xvZ3kmElsrEwhwb2ludHJlZiYTWysUB2luZGljZXMmFEASIgAABAAEAAUABQAGAAEABgACAAYABgAHAAcACAAHAAkABwAKAAgACwAJAAsACgALAAMACwALAAwADAANAAAADQANAA4AXV0rFQphdHRyaWJ1dGVzJhVbKxYQdmVydGV4YXR0cmlidXRlcyYWW1tbKxcFc2NvcGUmFysYBnB1YmxpYyYYKxkEdHlwZSYZKxoGc3RyaW5nJhorGwRuYW1lJhsrHAlwb3J0YWxpYXMmHCsdB29wdGlvbnMmHXt9XVsrHgRzaXplJh4RASsfB3N0b3JhZ2UmHysgBWludDMyJiArIQdzdHJpbmdzJiFbKyICYjAmIisjAmIxJiNdJhRbJh4RASYfJiArJAhwYWdlc2l6ZSYkEgAEKyULcmF3cGFnZWRhdGEmJUATIv////////////////////////////////////8AAAAA/////wEAAAD/////AAAAAP////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9dXV1bWyYXJhgmGSsmB251bWVyaWMmJiYbKycJcG9ydGluZGV4JicmHXsmGXsmGSYaKygFdmFsdWUmKCspFW5vbmFyaXRobWV0aWNfaW50ZWdlciYpfX1dWyYeEQEmHyYgKyoIZGVmYXVsdHMmKlsmHhEBJh8rKwVpbnQ2NCYrKywGdmFsdWVzJixAFAH//////////10mLFsmHhEBJh8mICYkEgAEJiVAEyL/////////////////////////////////////AAAAAP////8BAAAA/////wAAAAD/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////XV1dW1smFyYYJhkmGiYbKy0IcG9ydG5hbWUmLSYde31dWyYeEQEmHyYgJiFbKy4DZ2VvJi4mHisvBnZlY3RvciYvKzAGcmVzdWx0JjArMQFhJjErMgFiJjIrMwF4JjMrNAF5JjQrNQF6JjUrNgRyb3cxJjYrNwRyb3cyJjcrOARyb3czJjgrOQRyb3c0JjkrOgFtJjorOwRwYXJtJjsmKCs8BXhmb3JtJjxdJhRbJh4RASYfJiAmJBIABCYlQBMiAAAAAAAAAAABAAAAAgAAAAMAAAAEAAAAAwAAAAUAAAADAAAABQAAAAMAAAAFAAAAAwAAAAYAAAADAAAABwAAAAMAAAAIAAAAAgAAAAkAAAACAAAACgAAAAIAAAALAAAAAgAAAAwAAAANAAAADgAAAA8AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAF1dXV0rPQ9wb2ludGF0dHJpYnV0ZXMmPVtbWyYXJhgmGSYmJhsrPgFQJj4mHXsmGXsmGSYaJigrPwVwb2ludCY/fX1dWyYeEQMmHytACGZwcmVhbDMyJkAmKlsmHhEBJh8rQQhmcHJlYWw2NCZBJixAGgEAAAAAAAAAAF0mLFsmHhEDJh8mQCYkEgAEJiVAGS0AAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAA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	)
 stashinput	[ 0	locks=0 ]	(	0	)
 stashfile	[ 0	locks=0 ]	(	""	)
 movestashtofile	[ 0	locks=0 ]	(	0	)
@@ -6703,7 +6703,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position 23.1888 -41.3614
+position 22.9299 -41.6442
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
 outputsNamed3
@@ -7840,7 +7840,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position 23.1904 -42.4078
+position 24.0595 -44.2044
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault off exposed on
 outputsNamed3
@@ -7849,11 +7849,11 @@ outputsNamed3
 }
 inputsNamed3
 {
-0 	invoke2 1 1 "input1"
+0 	primitivewrangle1 2 1 "input1"
 }
 inputs
 {
-0 	invoke2 0 1
+0 	primitivewrangle1 0 1
 }
 stat
 {
@@ -7917,7 +7917,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position 23.1904 -40.3214
+position 22.9299 -40.5147
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault off exposed on
 outputsNamed3
@@ -8500,7 +8500,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position 23.1904 -43.4935
+position 24.0595 -45.3339
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault off exposed on
 outputsNamed3
@@ -8565,7 +8565,7 @@ Content-Type: text/plain
 
 sopflags sopflags = 
 comment ""
-position 23.1904 -39.2357
+position 22.9299 -39.3852
 connectornextid 2
 flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault off exposed on
 outputsNamed3
@@ -8616,6 +8616,151 @@ Content-Type: text/plain
 }
 
 --HOUDINIMIMEBOUNDARY0xD3ADD339-0x00000F49-0x56B122C9-0x00000001HOUDINIMIMEBOUNDARY
+Content-Disposition: attachment; filename="hdaroot/foreach_begin1_metadata1.init"
+Content-Type: text/plain
+
+type = block_begin
+matchesdef = 1
+
+--HOUDINIMIMEBOUNDARY0xD3ADD339-0x00000F49-0x56B122C9-0x00000001HOUDINIMIMEBOUNDARY
+Content-Disposition: attachment; filename="hdaroot/foreach_begin1_metadata1.def"
+Content-Type: text/plain
+
+sopflags sopflags = 
+comment ""
+position 25.1891 -42.096
+connectornextid 1
+flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault off exposed on
+outputsNamed3
+{
+0 "output1"
+}
+inputsNamed3
+{
+}
+inputs
+{
+}
+stat
+{
+  create -1
+  modify -1
+  author Jooyo@JyLee
+  access 0777
+}
+color UT_Color RGB 0.75 0.4 0 
+delscript ""
+exprlanguage hscript
+end
+
+--HOUDINIMIMEBOUNDARY0xD3ADD339-0x00000F49-0x56B122C9-0x00000001HOUDINIMIMEBOUNDARY
+Content-Disposition: attachment; filename="hdaroot/foreach_begin1_metadata1.parm"
+Content-Type: text/plain
+
+{
+version 0.8
+method	[ 0	locks=0 ]	(	"metadata"	)
+blockpath	[ 0	locks=0 ]	(	../foreach_end5	)
+resetcookpass	[ 0	locks=0 ]	(	0	)
+createmetablock	[ 0	locks=0 ]	(	0	)
+label1	[ 0	locks=0 ]	(	"iteration, numiterations, value, ivalue"	)
+}
+
+--HOUDINIMIMEBOUNDARY0xD3ADD339-0x00000F49-0x56B122C9-0x00000001HOUDINIMIMEBOUNDARY
+Content-Disposition: attachment; filename="hdaroot/foreach_begin1_metadata1.userdata"
+Content-Type: text/plain
+
+{
+	"___Version___":{
+		"type":"string",
+		"value":"___EXTERNAL___"
+	}
+}
+
+--HOUDINIMIMEBOUNDARY0xD3ADD339-0x00000F49-0x56B122C9-0x00000001HOUDINIMIMEBOUNDARY
+Content-Disposition: attachment; filename="hdaroot/primitivewrangle1.init"
+Content-Type: text/plain
+
+type = attribwrangle
+matchesdef = 1
+
+--HOUDINIMIMEBOUNDARY0xD3ADD339-0x00000F49-0x56B122C9-0x00000001HOUDINIMIMEBOUNDARY
+Content-Disposition: attachment; filename="hdaroot/primitivewrangle1.def"
+Content-Type: text/plain
+
+sopflags sopflags = 
+comment ""
+position 24.0595 -43.0749
+connectornextid 3
+flags =  lock off model off template off footprint off xray off bypass off display off render off highlight off unload off savedata off compress on colordefault on exposed on
+outputsNamed3
+{
+2 "output1"
+}
+inputsNamed3
+{
+0 	invoke2 1 1 "input1"
+1 	foreach_begin1_metadata1 0 1 "input2"
+}
+inputs
+{
+0 	invoke2 0 1
+1 	foreach_begin1_metadata1 0 1
+}
+stat
+{
+  create -1
+  modify -1
+  author Jooyo@JyLee
+  access 0777
+}
+color UT_Color RGB 0.8 0.8 0.8 
+delscript ""
+exprlanguage hscript
+end
+
+--HOUDINIMIMEBOUNDARY0xD3ADD339-0x00000F49-0x56B122C9-0x00000001HOUDINIMIMEBOUNDARY
+Content-Disposition: attachment; filename="hdaroot/primitivewrangle1.parm"
+Content-Type: text/plain
+
+{
+version 0.8
+folder0	[ 0	locks=0 ]	(	0	0	)
+group	[ 0	locks=0 ]	(	""	)
+grouptype	[ 0	locks=0 ]	(	"guess"	)
+class	[ 0	locks=0 ]	(	"primitive"	)
+vex_numcount	[ 0	locks=0 ]	(	10	)
+vex_threadjobsize	[ 0	locks=0 ]	(	1024	)
+snippet	[ 0	locks=0 ]	(	"int it = detail(1,\"iteration\");
+s@name = sprintf(\"%s_%d\", s@name, it);"	)
+exportlist	[ 0	locks=0 ]	(	*	)
+vex_strict	[ 0	locks=0 ]	(	"off"	)
+vex_strictvariables	[ 0	locks=0 ]	(	"on"	)
+autobind	[ 0	locks=0 ]	(	"on"	)
+bindings	[ 0	locks=0 ]	(	0	)
+groupautobind	[ 0	locks=0 ]	(	"on"	)
+groupbindings	[ 0	locks=0 ]	(	0	)
+vex_cwdpath	[ 0	locks=0 ]	(	.	)
+vex_outputmask	[ 0	locks=0 ]	(	*	)
+vex_updatenmls	[ 0	locks=0 ]	(	"off"	)
+vex_matchattrib	[ 0	locks=0 ]	(	id	)
+vex_inplace	[ 0	locks=0 ]	(	"off"	)
+vex_selectiongroup	[ 0	locks=0 ]	(	""	)
+vex_precision	[ 0	locks=0 ]	(	auto	)
+}
+
+--HOUDINIMIMEBOUNDARY0xD3ADD339-0x00000F49-0x56B122C9-0x00000001HOUDINIMIMEBOUNDARY
+Content-Disposition: attachment; filename="hdaroot/primitivewrangle1.userdata"
+Content-Type: text/plain
+
+{
+	"___Version___":{
+		"type":"string",
+		"value":""
+	}
+}
+
+--HOUDINIMIMEBOUNDARY0xD3ADD339-0x00000F49-0x56B122C9-0x00000001HOUDINIMIMEBOUNDARY
 Content-Disposition: attachment; filename="hdaroot/__dot1.networkdotinit"
 Content-Type: text/plain
 
@@ -8632,7 +8777,7 @@ Content-Type: text/plain
 Content-Disposition: attachment; filename="hdaroot.order"
 Content-Type: text/plain
 
-93
+95
 output0
 merge1
 attribdelete1
@@ -8726,6 +8871,8 @@ switchif2
 null5
 compile_end1
 compile_begin1
+foreach_begin1_metadata1
+primitivewrangle1
 
 --HOUDINIMIMEBOUNDARY0xD3ADD339-0x00000F49-0x56B122C9-0x00000001HOUDINIMIMEBOUNDARY
 Content-Disposition: attachment; filename="hdaroot.net"
